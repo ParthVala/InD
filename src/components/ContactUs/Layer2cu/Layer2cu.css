@@ -1,0 +1,42 @@
+.l2cuall{
+    margin: 0px 75px;
+}
+
+.l2cupic{
+    margin-top: 100px;
+    margin-left: 100px;
+    height: 600px;
+    width: auto;
+}
+
+.l2cuh{
+    font-family: DM Sans;
+font-size: 40px;
+font-weight: 550;
+line-height: 57px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+margin-bottom: 30px;
+width: 50%;
+}
+
+.fo{
+    width: 40%;
+}
+
+.buton{
+    width: 100%;
+    background: #FFBA49;
+    margin-top: 50px;
+}
+
+.deta{
+    position: relative;
+    bottom: 580px;
+    left: 650px;
+}
+
+.l2cula{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}

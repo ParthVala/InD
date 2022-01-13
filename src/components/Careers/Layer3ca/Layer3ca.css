@@ -1,0 +1,35 @@
+.l3cah{
+    margin-top: 350px;
+    text-align: center;
+    font-size: 44px;
+}
+
+.l3cap1{
+    margin-top: 50px;
+    word-wrap: break-all;
+    width: 85%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #6F6F6F;
+    font-size: 19px;
+
+}
+
+.l3cap2{
+    margin-top: 40px;
+    word-wrap: break-all;
+    width: 85%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #6F6F6F;
+    font-size: 19px;
+}
+
+.l3capic{
+    width: auto;
+    height: 800px;
+    display: block;
+    margin: 150px auto;
+}

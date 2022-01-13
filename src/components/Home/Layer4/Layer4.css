@@ -1,0 +1,34 @@
+.l4b{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    border-top: 1px solid yellow;
+    margin-top: 7rem;
+    margin-bottom: 4rem;
+}
+
+.l4w{
+    letter-spacing: 0.5px;
+}
+
+.l4allimg{
+    text-align: center;
+}
+
+.l4im{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    display: inline-block;
+    padding-left: 53px;
+    padding-right: 53px;
+}
+
+.l4b2{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    border-top: 1px solid yellow;
+    margin-bottom: 17rem;
+}

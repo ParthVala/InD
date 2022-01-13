@@ -1,0 +1,49 @@
+.l5all{
+    background-color: #1D1D1D;
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    padding: 1rem 4rem;
+}
+
+.thinl{
+    border: none;
+    border-top: 1px solid yellow;
+    position: relative;
+    top: 10px;
+}
+
+.fbtn{
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.belowh{
+    padding-left: 15px;
+}
+
+.an{
+    color: #ffff;
+    text-decoration: none;
+    padding-left: 2rem;
+    position: relative;
+    top: 15px;
+}
+
+.smlogo{
+    padding: 0 1rem;
+    position: relative;
+    top: 15px;
+}
+
+.f{
+    margin-left: 28rem;
+}
+
+.lleter{
+    color: #ffff;
+    text-decoration: none;
+    padding-left: 2rem;
+    position: relative;
+    bottom: 500px;
+}

@@ -1,0 +1,54 @@
+.top{
+    margin: 25px 75px;
+    width: 100%;
+}
+
+.top-middle{
+    display: flex;
+    justify-content: center;
+    padding-left: 5px 15px;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 92px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.top-right{
+    display: flex;
+    justify-content: right;
+}
+
+.hmebtn{
+    border-radius: 20px;
+}
+
+.midele1{
+    margin-left: 250px;
+font-weight: 500;
+font-size: 18px;
+}
+
+.midele2{
+    margin-left: 35px;
+font-weight: 500;
+font-size: 18px;
+}
+
+.midele3{
+    margin-left: 35px;
+font-weight: 500;
+font-size: 18px;
+}
+
+.midele4{
+    margin-left: 350px;
+}
+
+.linnk{
+    text-decoration: none;
+    color: inherit;
+}
+
